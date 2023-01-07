@@ -3,9 +3,8 @@ import os
 import glob
 
 storageAccountName = "ststreetfighter6"
-storageAccountKey = "DfQTBut+t0wazWONQNYWlXOhoOEAobwwsfC93FZ/n+5LURRRHSeucRhtnoXzrnGYRBmyVAT2JY0F+AStp/B7eA=="
-storageConnectionString = "DefaultEndpointsProtocol=https;AccountName=ststreetfighter6;AccountKey=DfQTBut+t0wazWONQNYWlXOhoOEAobwwsfC93FZ/n+5LURRRHSeucRhtnoXzrnGYRBmyVAT2JY0F+AStp/B7eA==;EndpointSuffix=core.windows.net"
-storageContainerName = "street-fighter-extraction"
+storageAccountKey = "STORAGE_ACCOUNT_KEY"
+storageConnectionString = "STORAGE_CONNECTION_STRING"
 
 folderName = "data/"
 
